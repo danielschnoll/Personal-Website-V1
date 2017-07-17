@@ -1,9 +1,12 @@
-<<<<<<< HEAD
-# "Land.io" UI Kit + Landing Page (HTML)
+# Personal-Website-V1
+Version 1 of my personal website
 
-Landio is a responsive HTML template, built on top of [Bootstrap 4](http://v4-alpha.getbootstrap.com/) and based on the [Land.io Sketch design](http://tympanus.net/codrops/2015/09/16/freebie-land-io-ui-kit-landing-page-design-sketch/) by [Peter Finlan](http://peterfinlan.com/). This template and the UI kit were coded by [Taty Grassini](http://tatygrassini.github.io/).
 
-[Read more about it on Codrops](http://tympanus.net/codrops/?p=25217)
+## "Land.io" UI Kit + Landing Page (HTML)
+
+>>Landio is a responsive HTML template, built on top of [Bootstrap 4](http://v4-alpha.getbootstrap.com/) and based on the [Land.io Sketch design](http://tympanus.net/codrops/2015/09/16/freebie-land-io-ui-kit-landing-page-design-sketch/) by [Peter Finlan](http://peterfinlan.com/). This template and the UI kit were coded by [Taty Grassini](http://tatygrassini.github.io/).
+
+>>[Read more about it on Codrops](http://tympanus.net/codrops/?p=25217)
 
 [Demo Template](http://tympanus.net/Freebies/Landio/)
 
@@ -37,9 +40,3 @@ Follow Taty: [Twitter](https://twitter.com/tatygrassini), [GitHub](https://githu
 Follow Codrops: [Twitter](http://www.twitter.com/codrops), [Facebook](http://www.facebook.com/pages/Codrops/159107397912), [Google+](https://plus.google.com/101095823814290637419), [GitHub](https://github.com/codrops), [Pinterest](http://www.pinterest.com/codrops/)
 
 [© Codrops 2015](http://www.codrops.com)
-
-
-=======
-# Personal-Website-V1
-Version 1 of my personal website
->>>>>>> 34843e9c8f87416118d15f77fd352125d51a4776
