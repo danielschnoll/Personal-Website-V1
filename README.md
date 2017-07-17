@@ -1,5 +1,10 @@
 # Personal-Website-V1
-Version 1 of my personal website
+This is Version 1 of my personal website
+I built it out of a static HTML landing page template called Land.io. You can view Land.io's Readme and see the license below. 
+I intended on adding more pages and functionality to this site, but unfortunately it would have been far too much work. So, I opted for a new static HTML website built from another template. 
+This site is therefore essentially obsolete, but I felt it necessary to share the changes I made to the template and show off the first iteration of my site.
+
+
 
 
 ># "Land.io" UI Kit + Landing Page (HTML)
